@@ -12,7 +12,8 @@
   
 #### Application has, main window and window User instructions, it is converting text from Cyrillic to Lattin and it has Copy to clipboard function. After one conversion, there is the Clear text button for resetting input and output fields.
 
-https://github.com/andrea6666/LatinCyrillicConverter_DesktopApp/assets/45822712/25f9fccc-60c8-40ab-b37b-a16a0bf15ebd
+https://github.com/andrea6666/LatinCyrillicConverter_DesktopApp/assets/45822712/6b5047c5-03f6-4afa-bb31-10231c4e1751
+
 
 
 
